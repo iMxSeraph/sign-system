@@ -2,7 +2,7 @@
 
 This is a Sign System for my company.
 
-It gets data from another MSSQL database and calculate data to provide a summary.
+It gets data from another MS-SQL database and calculate data to provide a summary.
 
 It's based on Laravel PHP Framework.
 
